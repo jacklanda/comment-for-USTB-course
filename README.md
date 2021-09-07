@@ -33,8 +33,16 @@
 
 ### 课程清单（按照拼音排序）
 
-- [**信息安全数学基础**](./course/xin-xi-an-quan-de-shu-xue-ji-chu)
+- [操作系统设计与分析](./course/cao-zuo-xi-tong-she-ji-yu-fen-xi)
+- [高等计算机体系结构](./course/gao-deng-ji-suan-ji-ti-xi-jie-gou)
+- [高级人工智能](./course/gao-ji-ren-gong-zhi-neng)
+- [机器学习](./course/ji-qi-xue-xi)
+- [密码算法与协议](./course/mi-ma-suan-fa-yu-xie-yi)
+- [数据挖掘与知识发现](./course/shu-ju-wa-jue-yu-zhi-shi-fa-xian)
 - [网络安全与管理](./course/wang-luo-an-quan-yu-guan-li)
+- [网络与信息安全技术](./course/wang-luo-yu-xin-xi-an-quan-ji-shu)
+- [**信息安全数学基础**](./course/xin-xi-an-quan-de-shu-xue-ji-chu)
+- [演化计算](./course/yan-hua-ji-suan)
 
 [^1]:某个老师PPT十多年来的变化就是，把“副教授”字样改成了“教授”字样
 
