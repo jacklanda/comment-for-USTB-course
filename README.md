@@ -33,6 +33,7 @@
 
 ### 课程清单（按照拼音排序）
 
+- [C语言程序设计](./course/C-yu-yan-cheng-xu-she-ji)
 - [操作系统设计与分析](./course/cao-zuo-xi-tong-she-ji-yu-fen-xi)
 - [高等计算机体系结构](./course/gao-deng-ji-suan-ji-ti-xi-jie-gou)
 - [高级人工智能](./course/gao-ji-ren-gong-zhi-neng)
